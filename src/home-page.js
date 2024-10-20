@@ -16,4 +16,4 @@ const homePageLoad = function () {
     const description = document.createElement("p");
     description.textContent = "The top new hamburber restaurant in the Valley!"
     content.appendChild(description);
-}
+};

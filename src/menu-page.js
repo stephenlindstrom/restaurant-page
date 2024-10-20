@@ -15,4 +15,4 @@ const menuPageLoad = function () {
         menu.appendChild(menuItem);
     })
     content.appendChild(menu);
-}
+};
